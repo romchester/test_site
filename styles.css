@@ -1,0 +1,766 @@
+div {
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    border: 0;
+  }
+  p {
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    border: 0;
+  }
+  :root {
+    --color-gainsboro-b0a2eed7: rgba(225, 225, 225, 1);
+    --color-darkgrey-85d897f1: rgba(180, 180, 180, 1);
+    --color-darkslategrey-f12175e7: rgba(55, 54, 68, 1);
+    --color-black-67adb616: rgba(24, 24, 24, 1);
+    --color-black-3b269677: rgba(32, 32, 32, 1);
+    --color-gainsboro-9d27f479: rgba(230, 230, 230, 1);
+    --color-darkslategrey-9b95c861: rgba(37, 37, 37, 1);
+    --color-whitesmoke-2a36df50: rgba(238, 238, 238, 1);
+    --color-silver-28886173: rgba(195, 195, 195, 1);
+    --color-silver-d8ec7d2f: rgba(196, 196, 196, 1);
+    --color-whitesmoke-b54ff344: rgba(244, 244, 244, 1);
+    --color-darkslategrey-99cd18de: rgba(80, 80, 80, 1);
+    --font-size-24: 24px;
+    --font-size-18: 18px;
+    --font-size-16: 16px;
+    --font-size-27: 27px;
+    --font-size-12: 12px;
+    --font-size-20: 20px;
+    --font-size-64: 64px;
+    --font-size-32: 32px;
+    --font-weight-500: 500;
+    --font-weight-800: 800;
+    --font-weight-400: 400;
+    --font-weight-700: 700;
+    --font-weight-300: 300;
+    --font-weight-600: 600;
+    --border-radius-16: 16px;
+  }
+
+  .visual-space-container1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 34px;
+  }
+  .visual-space-section {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    gap: 144px;
+    align-items: center;
+    justify-content: center;
+  }
+  .architecture-title1 {
+    box-sizing: border-box;
+    flex: 0 1 190px;
+    max-width: 190px;
+    padding: 0;
+    margin: 0;
+    font: var(--font-weight-700) var(--font-size-24) Manrope;
+    color: var(--color-black-67adb616);
+    text-align: center;
+    letter-spacing: 0.48px;
+    white-space: pre-wrap;
+  }
+  .interior-visualization {
+    box-sizing: border-box;
+    flex: 0 1 177px;
+    max-width: 177px;
+    padding: 0;
+    margin: 0;
+    font: var(--font-weight-500) var(--font-size-24) Manrope;
+    color: var(--color-darkslategrey-99cd18de);
+    text-align: center;
+    letter-spacing: 0.48px;
+    white-space: pre-wrap;
+  }
+  .highlighted-text {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    font: var(--font-weight-500) var(--font-size-24) Manrope;
+    color: var(--color-darkslategrey-99cd18de);
+    letter-spacing: 0.48px;
+    white-space: pre-wrap;
+  }
+  .visual-space-section1 {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: flex-start;
+    align-self: stretch;
+    justify-content: flex-start;
+    margin-top: 32px;
+  }
+  .project-details1 {
+    flex: 0 0 auto;
+    padding-bottom: 1201px;
+  }
+  .image-container2 {
+    box-sizing: border-box;
+    display: block;
+    width: 360px;
+    max-width: initial;
+    height: 640px;
+    border: none;
+  }
+  .img-content-e172d9ab {
+    content: url("https://s3-alpha-sig.figma.com/img/c5bb/25e0/bc6a858f4dafce72f5b16830719c1d04?Expires=1703462400&Signature=EpnJGb~TKEyko9CzIY2lmzpbzaxTrc6f0CKqh165w2W8nEe67jz8r7KIJ~4LpN1NLxBdhLSnWZ~eEGf4GvZQcUrWiq4mvzDeLhFUz1tBWmL~JLoRKdO8XhBVK76C3b9DigzbeyS8HerRbJnDjEBcNfBEJx6QYejVXz07fiP2VDBQyOFryLvaXYEdi3VsP5tSCHvQHIKmbiRM7SmroErI9YqLurDz5DC2FTW5r4uR9ZernuZCEhPdCp0jgDtrmfchCcQo60Sb9FpfY5VYbzhCTSZolbXSe2IMkdw0laDdzJ-sJX6ifK3IjZugWYUo5oRqfCL52U-TdtrFGj3wTxkpGA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  }
+  .project-details {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 62px;
+    align-items: stretch;
+    justify-content: flex-start;
+  }
+  .project-info {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .image-container5 {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    max-width: initial;
+    height: 640px;
+    padding: 310px 23px 309px 25px;
+    background: url("https://s3-alpha-sig.figma.com/img/710a/ff25/05f31876ad55db67bc131765ff910599?Expires=1703462400&Signature=DHp8iEBwDym7LtAnO90-wpwN6jKiy7GTHcBFmsMvK6PC2x5zOFrLqW6fv~n5OApl2WolDmO8b0Du~JZytUyWqCShL5w~VqvetOC4j2Tpi59TMlmgphkeG43zHjzPlgZobGBOiiOJhm-Y5Ytbd3L6N5nR1d~q~~V3DfSm-kIUydSyGoRddpIQ3ZQ2SHYcdV3S0BIVl8M8mczdAz4rGnMg33G~VZnwBpG4Ha5Gi0tLk5ib1VgBv-O-PyfLJIZ5nNb4qaDX7v8mxRTz8D9ij27kaB-UD10Lgv6Z7ad748OBTOia0x~feWFVwfe0DQAxUOKz9hDG7TbHpel-2gof1OO~Xg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4") no-repeat 50% / cover;
+    border: none;
+  }
+  .image-container1 {
+    box-sizing: border-box;
+    display: block;
+    flex: 0 0 auto;
+    width: 1152px;
+    max-width: initial;
+    height: 24.5px;
+  }
+  .img-content-5fff595f {
+    content: url("assets/div_content_ec721e.svg");
+  }
+  .request-form {
+    flex: 0 0 auto;
+  }
+  .img-content-6146d45a {
+    content: url("https://s3-alpha-sig.figma.com/img/8441/bf34/56ea2980944d146315e4b7f9325efd3a?Expires=1703462400&Signature=Jx~lAv9BSs9NnsOvaUvQhyq2MKQdtUAFhv7MKCw6tjkRpka4ldSrkh-BTGkfIqXSi0jjBaM8MZT5kjr8pUFai3~-vZbZp06JkijspDSjKzIqDX0YLe0qQNq2u92wpSdtDhWtSShQQRzP98uspZ~qrZ56XXn5i9iU5HeuB8eA8WDeUyIdxkQwwM0sM~YSWnMT3rb9JC~7fn7iXno3eZQ9ivNzwwoaUh90mvtbqmRTWAUtmy6fRg8esAgRKqVrB6TDgFI3Wz8DnXfC0JHdger006BlZku0-wWyC1sxCpUtxWlMXCEgJ57kCX1GnDRMkPJ~s9HRHgBEdsN1K8EeHr0o7g__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  }
+  .project-description1 {
+    flex: 0 0 auto;
+    padding: 0 0 113px;
+    margin: 0;
+    font: var(--font-weight-600) var(--font-size-64) Montserrat;
+    color: var(--color-black-67adb616);
+    white-space: pre-wrap;
+  }
+  .project-description {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    max-width: 716px;
+    padding: 10px 0 0;
+    margin: 0 0 0 145px;
+    font: var(--font-weight-500) var(--font-size-32) / 105.99999237060547% Manrope;
+    color: var(--color-black-67adb616);
+    text-align: left;
+    letter-spacing: 0.64px;
+    white-space: pre-wrap;
+  }
+  .client-targeted-info {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-top: 47px;
+  }
+  .architect-designers-clients-realtors {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    max-width: 639px;
+    padding: 10px 0 0;
+    margin: 0;
+    font: var(--font-weight-500) var(--font-size-32) / 105.99999237060547% Manrope;
+    color: var(--color-black-67adb616);
+    text-align: left;
+    letter-spacing: 0.64px;
+    white-space: pre-wrap;
+  }
+  .target-audience-title {
+    flex: 0 0 auto;
+    padding: 0 0 113px;
+    margin: 0 0 0 223px;
+    font: var(--font-weight-600) var(--font-size-64) Montserrat;
+    color: var(--color-black-67adb616);
+    white-space: pre-wrap;
+  }
+  .application-form {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    margin-top: 15px;
+  }
+  .main-heading {
+    padding: 0;
+    margin: 0;
+    font: var(--font-weight-600) var(--font-size-64) Montserrat;
+    color: var(--color-black-67adb616);
+    white-space: pre-wrap;
+  }
+  .consultation-text {
+    padding: 0;
+    margin: 16px 0 0;
+    font: var(--font-weight-400) var(--font-size-32) Manrope;
+    color: var(--color-black-67adb616);
+    white-space: pre-wrap;
+  }
+  .project-comment2 {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    max-width: 1200px;
+    margin-top: 62px;
+  }
+  .project-comment1 {
+    box-sizing: border-box;
+    display: flex;
+    flex: 1 0 498px;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+  }
+  .input-container {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    height: 73px;
+    padding-left: 23px;
+    font: var(--font-weight-500) var(--font-size-24) Manrope;
+    letter-spacing: 0.48px;
+    background: var(--color-gainsboro-b0a2eed7);
+    border: none;
+    border-radius: var(--border-radius-16);
+  }
+  .input-style-f62::placeholder {
+    color: var(--color-darkgrey-85d897f1);
+  }
+  .input-container1 {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    height: 73px;
+    padding-left: 23px;
+    margin-top: 32px;
+    font: var(--font-weight-500) var(--font-size-24) Manrope;
+    letter-spacing: 0.48px;
+    background: var(--color-gainsboro-b0a2eed7);
+    border: none;
+    border-radius: var(--border-radius-16);
+  }
+  .project-comment3 {
+    box-sizing: border-box;
+    display: flex;
+    flex: 1 0 654px;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    padding: 24px 23px 129px;
+    margin-left: 48px;
+    background: var(--color-gainsboro-b0a2eed7);
+    border-radius: var(--border-radius-16);
+  }
+  .project-comment {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    font: var(--font-weight-500) var(--font-size-24) Manrope;
+    color: var(--color-darkgrey-85d897f1);
+    letter-spacing: 0.48px;
+    white-space: pre-wrap;
+  }
+  .contact-form {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 42px;
+  }
+  .submit-button {
+    box-sizing: border-box;
+    display: block;
+    flex: 0 0 auto;
+    width: 286px;
+    min-width: 286px;
+    height: 73px;
+    font: var(--font-weight-500) var(--font-size-24) Manrope;
+    color: var(--color-gainsboro-9d27f479);
+    letter-spacing: 0.48px;
+    cursor: pointer;
+    background: var(--color-black-3b269677);
+    border: none;
+    border-radius: var(--border-radius-16);
+  }
+  .privacy-policy-text {
+    box-sizing: border-box;
+    flex: 0 1 auto;
+    max-width: 866px;
+    padding: 0;
+    margin: 0 0 0 40px;
+    font: var(--font-weight-400) var(--font-size-20) / 104.49899291992188% Manrope;
+    color: var(--color-darkslategrey-99cd18de);
+    text-align: left;
+    white-space: pre-wrap;
+  }
+  .contact-info4 {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: flex-start;
+    height: 70px;
+    margin-top: -10px;
+  }
+  .contact-info {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+  }
+  .flex-container {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .address-title {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    font: var(--font-weight-500) var(--font-size-24) Manrope;
+    color: var(--color-black-67adb616);
+    letter-spacing: 0.48px;
+    white-space: pre-wrap;
+  }
+  .studio-address {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0 0 0 8px;
+    font: var(--font-weight-500) var(--font-size-24) Manrope;
+    color: var(--color-darkslategrey-99cd18de);
+    letter-spacing: 0.48px;
+    white-space: pre-wrap;
+  }
+  .contact-info2 {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-top: 16px;
+  }
+  .contact-info1 {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    margin-left: 687px;
+  }
+  .social-media-container {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    margin-top: 5px;
+  }
+  .image-container4 {
+    flex: 0 0 auto;
+    margin-right: 17px;
+  }
+  .image-container {
+    box-sizing: border-box;
+    display: block;
+    width: 40px;
+    max-width: initial;
+    height: 41px;
+  }
+  .img-content-67f014ea {
+    content: url("assets/div_content_6abd90.svg");
+  }
+  .image-container6 {
+    box-sizing: border-box;
+    display: block;
+    width: 38px;
+    max-width: initial;
+    height: 38px;
+  }
+  .img-content-e673ce33 {
+    content: url("assets/div_content_37880e.svg");
+  }
+  .visual-space-container3 {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: stretch;
+    align-self: stretch;
+    justify-content: flex-start;
+    padding: 48px 360px 73px;
+    margin-top: 58px;
+    background: var(--color-darkslategrey-9b95c861);
+  }
+  .visual-space-container {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 24.08%;
+    padding-top: 14px;
+    padding-bottom: 8px;
+  }
+  .visual-space-container2 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .visual-space1 {
+    flex: 0 0 auto;
+    padding-bottom: 7px;
+  }
+  .image-container3 {
+    box-sizing: border-box;
+    display: block;
+    width: 84px;
+    max-width: initial;
+    height: 75px;
+    border: none;
+  }
+  .img-content-111e3071 {
+    content: url("https://s3-alpha-sig.figma.com/img/2715/f787/ad5985dc31dd50e4405ebeed29958702?Expires=1703462400&Signature=QEjstfG6alnRxx5pYpilnszVo8wos87cWjzXtNgD9wfuuPre09qjUYFg6525Jbf8kpD40hiIDVcs1IPXiFNKumyJdb7OuRkNrwiMhnfOtFIx5LGhHyAOqoTezdCcGCh2kSNuLjdRN1KeaXi0KQz1-zSm06xgzxAilHeC9APnBzQ21o~~ocspLL0EdwXYXIYfhOOsQbZCaUGjK~-MuWu78hJ3yEWZ2g~GEcbvYbOEk9YeLZb2lrsYl-yqG8sdGL5Fo9OrCZh7VKya-j-8u6whI65NJiWwpsOhn2qArNqO~VIZgc52z4zU8gvaXitTxIHHW6gLxkUS3QAnHGISzI-fKw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  }
+  .visual-space {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    max-width: 94px;
+    padding: 28px 0 0;
+    margin: 0 0 0 7px;
+    font: var(--font-weight-800) var(--font-size-27) Manrope;
+    color: var(--color-gainsboro-b0a2eed7);
+    text-align: left;
+    letter-spacing: 0.81px;
+    white-space: pre-wrap;
+  }
+  .visual-space-copyright {
+    box-sizing: border-box;
+    max-width: 211px;
+    padding: 0;
+    margin: 11px 0 0;
+    color: var(--color-whitesmoke-2a36df50);
+    text-align: left;
+    white-space: pre-wrap;
+  }
+  .visual-space-copyright1 {
+    font: var(--font-weight-300) var(--font-size-12) / 90.15599822998047% Manrope;
+    color: var(--color-gainsboro-b0a2eed7);
+    text-align: left;
+    letter-spacing: 0.36px;
+  }
+  .visual-space-2023 {
+    font: var(--font-weight-300) var(--font-size-12) / 90.15599822998047% Manrope;
+    color: var(--color-gainsboro-b0a2eed7);
+    text-align: left;
+    text-decoration-line: underline;
+    letter-spacing: 0.36px;
+  }
+  .service-navigation {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    width: 50.67%;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .about-title {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 50%;
+    padding: 0;
+    margin: 0;
+    font: var(--font-weight-500) var(--font-size-20) Manrope;
+    color: var(--color-gainsboro-b0a2eed7);
+    letter-spacing: 0.4px;
+    white-space: pre-wrap;
+  }
+  .about-services {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 50%;
+    padding: 0 15px;
+    margin: 0;
+    font: var(--font-weight-500) var(--font-size-20) Manrope;
+    color: var(--color-gainsboro-b0a2eed7);
+    letter-spacing: 0.4px;
+    white-space: pre-wrap;
+  }
+  .project-card {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 41px;
+    margin-top: 16px;
+  }
+  .architecture-title {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    font: var(--font-weight-500) var(--font-size-20) Manrope;
+    color: var(--color-gainsboro-b0a2eed7);
+    letter-spacing: 0.4px;
+    white-space: pre-wrap;
+  }
+  .architectural-visualization-text {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    font: var(--font-weight-400) var(--font-size-16) Manrope;
+    color: var(--color-silver-28886173);
+    letter-spacing: 0.32px;
+    white-space: pre-wrap;
+  }
+  .exterior-visualization1 {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: flex-start;
+    margin-top: 8px;
+  }
+  .exterior-title {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 50%;
+    padding: 9px 0 0;
+    margin: 0;
+    font: var(--font-weight-400) var(--font-size-16) Manrope;
+    color: var(--color-silver-28886173);
+    letter-spacing: 0.32px;
+    white-space: pre-wrap;
+  }
+  .exterior-visualization {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 50%;
+    padding: 0 15px 9px;
+    margin: 0;
+    font: var(--font-weight-400) var(--font-size-16) Manrope;
+    color: var(--color-silver-28886173);
+    letter-spacing: 0.32px;
+    white-space: pre-wrap;
+  }
+  .interior-models {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 3px;
+  }
+  .interior-heading {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 50%;
+    padding: 0;
+    margin: 0;
+    font: var(--font-weight-400) var(--font-size-16) Manrope;
+    color: var(--color-silver-28886173);
+    letter-spacing: 0.32px;
+    white-space: pre-wrap;
+  }
+  .interior-design {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 50%;
+    padding: 0 15px;
+    margin: 0;
+    font: var(--font-weight-400) var(--font-size-16) Manrope;
+    color: var(--color-silver-28886173);
+    letter-spacing: 0.32px;
+    white-space: pre-wrap;
+  }
+  .web-design-section {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 6px;
+  }
+  .web-design-constructor {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 9px;
+  }
+  .contact-info5 {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 25.25%;
+    padding-right: 15px;
+    padding-bottom: 55px;
+    padding-left: 15px;
+  }
+  .contact-heading {
+    padding: 0;
+    margin: 0;
+    font: var(--font-weight-500) var(--font-size-20) Manrope;
+    color: var(--color-gainsboro-b0a2eed7);
+    letter-spacing: 0.4px;
+    white-space: pre-wrap;
+  }
+  .contact-info3 {
+    padding: 0;
+    margin: 12px 0 0;
+    font: var(--font-weight-400) var(--font-size-16) Manrope;
+    color: var(--color-silver-28886173);
+    letter-spacing: 0.32px;
+    white-space: pre-wrap;
+  }
+  .contact-icons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 12px;
+  }
+  .svg-container {
+    display: flex;
+    flex: 0 0 auto;
+    width: 24px;
+    height: 24px;
+    color: var(--color-silver-d8ec7d2f);
+  }
+  .svg-container1 {
+    display: flex;
+    flex: 0 0 auto;
+    width: 24px;
+    height: 24px;
+    margin-left: 16px;
+    color: var(--color-silver-d8ec7d2f);
+  }
+  .visual-space-container111 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 22px 361px 24px 360px;
+    border-bottom: 1px solid #181818;
+  }
+  .visual-space-container11 {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: center;
+  }
+  .request-form11 {
+    flex: 0 0 auto;
+  }
+  .image-container11 {
+    box-sizing: border-box;
+    display: block;
+    width: 56px;
+    max-width: initial;
+    height: 50px;
+    border: none;
+  }
+  .img-content-111e3071 {
+    content: url("https://s3-alpha-sig.figma.com/img/2715/f787/ad5985dc31dd50e4405ebeed29958702?Expires=1703462400&Signature=QEjstfG6alnRxx5pYpilnszVo8wos87cWjzXtNgD9wfuuPre09qjUYFg6525Jbf8kpD40hiIDVcs1IPXiFNKumyJdb7OuRkNrwiMhnfOtFIx5LGhHyAOqoTezdCcGCh2kSNuLjdRN1KeaXi0KQz1-zSm06xgzxAilHeC9APnBzQ21o~~ocspLL0EdwXYXIYfhOOsQbZCaUGjK~-MuWu78hJ3yEWZ2g~GEcbvYbOEk9YeLZb2lrsYl-yqG8sdGL5Fo9OrCZh7VKya-j-8u6whI65NJiWwpsOhn2qArNqO~VIZgc52z4zU8gvaXitTxIHHW6gLxkUS3QAnHGISzI-fKw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  }
+  .visual-space-heading11 {
+    flex: 0 0 auto;
+    padding: 19px 0 0;
+    margin: 0 0 0 5px;
+    font: var(--font-weight-800) var(--font-size-18) Manrope;
+    color: var(--color-darkslategrey-f12175e7);
+    text-align: left;
+    letter-spacing: 0.54px;
+    white-space: pre-wrap;
+  }
+  .navigation-bar11 {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    gap: 56px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 308px;
+  }
+  .about-heading11 {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    font: var(--font-weight-400) var(--font-size-18) Manrope;
+    color: var(--color-black-67adb616);
+    letter-spacing: 0.54px;
+    white-space: pre-wrap;
+  }
+  .about-heading111 {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    font: var(--font-weight-700) var(--font-size-18) Manrope;
+    color: var(--color-black-67adb616);
+    letter-spacing: 0.54px;
+    white-space: pre-wrap;
+  }
+  .submit-button11 {
+    box-sizing: border-box;
+    display: block;
+    flex: 0 0 auto;
+    width: 180px;
+    min-width: 180px;
+    height: 55px;
+    margin-left: 192px;
+    font: var(--font-weight-500) var(--font-size-16) Manrope;
+    color: var(--color-gainsboro-9d27f479);
+    letter-spacing: 0.32px;
+    cursor: pointer;
+    background: var(--color-black-3b269677);
+    border: none;
+    border-radius: var(--border-radius-16);
+  }
